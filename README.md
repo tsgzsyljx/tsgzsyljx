@@ -1,16 +1,62 @@
-## Hi there 👋
+<!DOCTYPE html>
+ <title> 贵州省人民医院 廖剑雄 不尊重生命</title>
 
-<!--
-**tsgzsyljx/tsgzsyljx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<body >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<table width='1000'  align='center' cellspacing='35' border='0'>
+
+<tr><td><div id="header"  >廖剑雄医生 不尊重生命</div></td></tr>
+
+</table>
+<table width='970' align='center' cellspacing='35' border='0'>
+
+<tr ><td id='tds'>
+<p>
+患者入 <strong>贵州省人民医院急诊内科</strong> 就诊，当时基本情况如下：1）体温38.8度；2）心率150左右；3）氧饱70左右；4）呼吸衰竭；5）有痰。
+</p>
+<p>	稍加思索，略微分析，甚至凭直觉，都可以得出结论：可能是痰部分堵住气管了，而处理方式也很简单：吸痰！
+</p>
+	
+	<p><strong>廖剑雄</strong> 完全没有考虑患者，甚至在我用纸和压舌板清理口腔里的痰，并告知其痰不少时，他仍然心不在焉，无动于衷，既没有提出可以吸痰，更没有到病床前查看。
+</p>
+
+<p><strong>廖剑雄</strong> 极端不负责，不尊重生命，不人道，必须为此负责。
+</td></tr>
+</table>
+
+
+
+
+
+</body>
+
+<style>
+#header{
+
+font-size:35px;
+font-weight:bolder;
+background-color:#b10000;
+color:#f7df0d;
+text-align:center;
+padding:25px;
+
+}
+#subheader{
+font-size:29px;
+width:900;
+background-color:#b10000;
+color:white;
+text-align:center;
+padding:13px;
+
+}
+
+#tds{
+font-size:21px;
+padding:13px;
+}
+
+
+</style>
